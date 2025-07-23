@@ -7,7 +7,6 @@ Version 18.0.0
 ---
 
 Table of Contents
-
 - [OWASP Juice Shop Challenges](#owasp-juice-shop-challenges)
   - [Repository Structure](#repository-structure)
   - [Install JuiceShop](#install-juiceshop)
@@ -19,7 +18,7 @@ Table of Contents
 ## Repository Structure
 
 ```bash
-OWASP_Juice_Shop_Challenges/
+OWASP_JuiceShop_Challenges/
 ├── challenges/
 |   ├── bjoerns_favorite_pet/
 │   │   ├── bjoerns_favorite_pet_DE.md  # Documentation for bjoerns_favorite_pet_DE
@@ -76,11 +75,11 @@ node start
 
 ## Challenges
 
-[Sandbox_EN](web3sandbox/sandbox_en.md)
-[View Basked_EN](viewBasket/view_basked_en.md)
-[Reflected XSS_EN](reflected_xss/reflected_xss_en.md)
-[Exposed Credentials_EN](exposed_credentials/exposed_credentials_en.md)
-[Björn's favorite pet_EN](bjoerns_favorite_pet/bjoerns_favorite_pet_en.md)
+- [Sandbox_EN](/challenges/web3sandbox/sandbox_en.md)
+- [View Basked_EN](/challenges/viewBasket/view_basked_en.md)
+- [Reflected XSS_EN](/challenges/reflected_xss/reflected_xss_en.md)
+- [Exposed Credentials_EN](/challenges/exposed_credentials/exposed_credentials_en.md)
+- [Björn's favorite pet_EN](/challenges/bjoerns_favorite_pet/bjoerns_favorite_pet_en.md)
 
 ---
 
