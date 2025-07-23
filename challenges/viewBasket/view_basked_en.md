@@ -12,7 +12,7 @@
 
 ---
 
-## Beschreibung
+## Description
 
 This challenge demonstrates **horizontal privilege escalation**, where a user can access data that belongs to another user with the same privilege level. Specifically, it allows an attacker to view another user's shopping basket by manipulating client-side data.
 
@@ -21,7 +21,7 @@ If an attacker is able to link their session to a different `basketId`, they can
 
 ---
 
-## Hinweis
+## Hint
 This horizontal privilege escalation challenge demands you to access the shopping basket of another user. Being able to do so would give an attacker the opportunity to spy on the victims shopping behaviour. He could also play a prank on the victim by manipulating the items or their quantity, hoping this will go unnoticed during checkout. This could lead to some arguments between the victim and the vendor.
 
 - Try out all existing functionality involving the shopping basket while having an eye on the HTTP traffic.
@@ -54,7 +54,3 @@ This horizontal privilege escalation challenge demands you to access the shoppin
 
 ### Admin Basket (for comparison)
 ![alt text](/img/admin_basked.png)
-
-:::
-You successfully solved a challenge: View Basket (View another user's shopping basket.)
-:::
