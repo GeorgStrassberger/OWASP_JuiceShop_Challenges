@@ -6,7 +6,7 @@
 
 ---
 
-## Schwierigkeit
+## Difficulty
 
 ⭐⭐⭐☆☆☆ 3-Sterne-Challenge (easy)
 

@@ -20,19 +20,19 @@ Table of Contents
 ```bash
 OWASP_JuiceShop_Challenges/
 ├── challenges/
-|   ├── bjoerns_favorite_pet/
+│   ├── bjoerns_favorite_pet/
 │   │   ├── bjoerns_favorite_pet_DE.md  # Documentation for bjoerns_favorite_pet_DE
 │   │   └── bjoerns_favorite_pet_EN.md  # Documentation for bjoerns_favorite_pet_EN
-|   ├── exposed_credentials/
+│   ├── exposed_credentials/
 │   │   ├── exposed_credentials_DE.md   # Documentation for exposed_credentials_DE
 │   │   └── exposed_credentials_EN.md   # Documentation for exposed_credentials_EN
-|   ├── reflected_xss/
+│   ├── reflected_xss/
 │   │   ├── reflected_xss_DE.md         # Documentation for reflected_xss_DE
 │   │   └── reflected_xss_EN.md         # Documentation for reflected_xss_EN
-|   ├── viewBasket/
+│   ├── viewBasket/
 │   │   ├── viewBasket_DE.md            # Documentation for viewBasket_DE
 │   │   └── viewBasket_EN.md            # Documentation for viewBasket_EN
-|   └── web3sandbox/
+│   └── web3sandbox/
 │       ├── web3sandbox_DE.md           # Documentation for web3sandbox_DE
 │       └── web3sandbox_EN.md           # Documentation for web3sandbox_EN
 ├── img/                                # All Images (Screenshots)
